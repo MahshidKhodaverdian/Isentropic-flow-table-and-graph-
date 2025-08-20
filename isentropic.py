@@ -1,5 +1,5 @@
 
-#Mahshid khodaverdian- mohammad amin-eslami
+#Mahshid khodaverdian
 #Isentropic Flow
 from IPython.display import display
 import numpy as np
@@ -25,4 +25,5 @@ plt.ylim(0, 7)
 plt.title('Isentropic')
 plt.xlabel('M')
 plt.grid()
+
 plt.show()
